@@ -3,5 +3,5 @@
 }
 
 .menu__item:last-child .menu__link {
-    margin: 0;
+    margin-right: 0;
 }
